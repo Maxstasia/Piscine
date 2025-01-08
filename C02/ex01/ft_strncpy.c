@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strncpy.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mstasiak <marvin@42.fr>                    +#+  +:+       +#+        */
+#    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/20 11:07:37 by mstasiak          #+#    #+#             */
 /*   Updated: 2024/09/25 11:07:39 by mstasiak         ###   ########.fr       */

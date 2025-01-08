@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_reverse_alphabet.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mstasiak <marvin@42.fr>                    +#+  +:+       +#+        */
+#    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/18 13:54:55 by mstasiak          #+#    #+#             */
 /*   Updated: 2024/09/18 14:03:12 by mstasiak         ###   ########.fr       */

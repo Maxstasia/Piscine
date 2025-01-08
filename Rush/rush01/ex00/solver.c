@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   solver.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mstasiak <marvin@42.fr>                    +#+  +:+       +#+        */
+#    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/29 11:50:31 by mstasiak          #+#    #+#             */
 /*   Updated: 2024/09/29 14:29:37 by mstasiak         ###   ########.fr       */

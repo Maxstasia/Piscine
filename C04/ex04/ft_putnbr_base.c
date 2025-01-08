@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr_base.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mstasiak <marvin@42.fr>                    +#+  +:+       +#+        */
+#    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/24 19:30:09 by mstasiak          #+#    #+#             */
 /*   Updated: 2024/09/26 13:42:18 by mstasiak         ###   ########.fr       */

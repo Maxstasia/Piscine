@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putstr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mstasiak <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/25 17:20:28 by mstasiak          #+#    #+#             */
-/*   Updated: 2024/09/26 13:30:40 by mstasiak         ###   ########.fr       */
+/*   Updated: 2025/01/08 14:48:31 by mstasiak         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <unistd.h>
+
 
 void	ft_putstr(char *str)
 {

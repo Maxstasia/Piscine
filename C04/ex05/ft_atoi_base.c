@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi_base.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mstasiak <marvin@42.fr>                    +#+  +:+       +#+        */
+#    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/24 20:00:00 by mstasiak          #+#    #+#             */
 /*   Updated: 2024/09/26 13:43:28 by mstasiak         ###   ########.fr       */

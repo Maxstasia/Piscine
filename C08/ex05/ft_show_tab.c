@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_show_tab.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mstasiak <marvin@42.fr>                    +#+  +:+       +#+        */
+#    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/10 15:03:07 by mstasiak          #+#    #+#             */
 /*   Updated: 2024/10/10 15:03:10 by mstasiak         ###   ########.fr       */

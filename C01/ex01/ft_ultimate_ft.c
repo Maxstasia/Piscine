@@ -3,13 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ultimate_ft.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mstasiak <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/19 13:33:41 by mstasiak          #+#    #+#             */
-/*   Updated: 2024/09/19 15:38:49 by mstasiak         ###   ########.fr       */
+/*   Updated: 2025/01/08 14:50:20 by mstasiak         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-void	ft_ultimate_ft(int *********nbr)
+
+ft_ultimate_ft(int *********nbr)
 {
 	*********nbr = 42;
 }
@@ -27,7 +28,7 @@ int	main(void)
 	int	******p6 = &p5;
 	int	*******p7 = &p6;
 	int	********p8 = &p7;
-	int     *********p9 = &p8;
+	int	*********p9 = &p8;
 
 	printf ("avant = %d\n", value);
 	ft_ultimate_ft(p9);

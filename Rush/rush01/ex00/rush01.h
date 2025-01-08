@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   rush01.h                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mstasiak <marvin@42.fr>                    +#+  +:+       +#+        */
+#    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/29 11:49:00 by mstasiak          #+#    #+#             */
 /*   Updated: 2024/09/29 14:29:23 by mstasiak         ###   ########.fr       */

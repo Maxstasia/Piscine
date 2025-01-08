@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   groups.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ajosse <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: ajosse <mstasiak@student.42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/06 12:20:49 by ajosse            #+#    #+#             */
 /*   Updated: 2024/10/06 12:20:53 by ajosse           ###   ########.fr       */

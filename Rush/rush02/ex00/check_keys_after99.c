@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   check_keys_after99.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ajosse <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: ajosse <mstasiak@student.42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/06 21:01:10 by ajosse            #+#    #+#             */
 /*   Updated: 2024/10/06 21:01:14 by ajosse           ###   ########.fr       */

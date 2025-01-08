@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strncat.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mstasiak <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/23 18:52:09 by mstasiak          #+#    #+#             */
-/*   Updated: 2024/09/25 14:10:32 by mstasiak         ###   ########.fr       */
+/*   Updated: 2025/01/08 14:48:31 by mstasiak         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-char	*ft_strncat(char *dest, char *src, unsigned int nb)
+
 {
 	unsigned int	i;
 	unsigned int	dest_len;

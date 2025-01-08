@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_point.h                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mstasiak <marvin@42.fr>                    +#+  +:+       +#+        */
+#    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/10 15:02:54 by mstasiak          #+#    #+#             */
 /*   Updated: 2024/10/10 15:02:56 by mstasiak         ###   ########.fr       */

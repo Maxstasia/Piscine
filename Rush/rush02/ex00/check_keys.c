@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   check_keys.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: nadeluge <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: nadeluge <mstasiak@student.42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/06 14:46:31 by nadeluge          #+#    #+#             */
 /*   Updated: 2024/10/06 18:18:36 by nadeluge         ###   ########.fr       */
